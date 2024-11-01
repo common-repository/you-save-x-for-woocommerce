@@ -1,0 +1,20 @@
+/*.thpys-total-save-cell,
+.thpys-you-save-single,
+body.woocommerce-cart table.cart tr.cart_item td.product-price .thpys-appended-cart-table {
+	background: #fff1f1;
+	color: #ff4747;
+}*/
+
+.thpys-you-save-single {
+	display: inline-block;
+	font-size: 90%;
+	padding: 2px 5px;
+}
+
+body.woocommerce-cart table.cart tr.cart_item td.product-price .thpys-appended-cart-table {
+	font-size: 90%;
+}
+
+.thpys-clearing {
+	clear: both;
+}
